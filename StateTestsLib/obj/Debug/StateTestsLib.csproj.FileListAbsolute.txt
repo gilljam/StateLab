@@ -1,0 +1,5 @@
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\StateLab\StateTestsLib\obj\Debug\StateTestsLib.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\StateLab\StateTestsLib\bin\Debug\StateTestsLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\StateLab\StateTestsLib\bin\Debug\StateTestsLib.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\StateLab\StateTestsLib\obj\Debug\StateTestsLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\StateLab\StateTestsLib\obj\Debug\StateTestsLib.pdb
