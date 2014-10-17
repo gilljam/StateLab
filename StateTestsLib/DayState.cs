@@ -36,7 +36,7 @@ namespace StateTestsLib
 
         public void SelectValue()
         {
-            
+            setup.State = null;
         }
 
         public int SelectedValue
